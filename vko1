@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GitHub Pages Sivuni</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <h1>Tervetuloa GitHub Pages-sivustolleni</h1>
+        <p class="container">Tämä on ensimmäinen GitHub Pages-teksti</p>
+    </body>
+</html>
 
+
+
+body {
+    background-color: #d2e2f2;
+    font-family: Roboto, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
