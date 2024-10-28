@@ -5,6 +5,7 @@
         <link rel="stylesheet" type="text/css" href="styles.css">
     </head>
     <body>
+    <h2>GitHub Pages sivuni jossa Jekyll teema</h2>
         <h1>Tervetuloa GitHub Pages-sivustolleni</h1>
 
     <p class="container">Täältä löytyvät tehtäväpalautukset:</p>
