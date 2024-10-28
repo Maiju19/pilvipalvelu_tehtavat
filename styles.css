@@ -28,5 +28,5 @@ nav ul li {
 
 .viikko2-page .container {
     max-width: 960px;
-    margin: 0;
+    margin: 0 auto;
 }
