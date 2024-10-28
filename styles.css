@@ -1,4 +1,4 @@
-body {
+xbody {
     background-color: #d2e2f2;
     font-family: Roboto, sans-serif;
 }
@@ -9,9 +9,24 @@ h1 {
 
 h2 {
     color: #333;
+
+nav ul {
+    list-style type: none;
+    padding: 0;
 }
 
-.container {
+nav ul li {
+    margin: 5px 0;
+}
+
+}
+
+.index-page .container {
     max-width: 960px;
     margin: 0 auto;
+}
+
+.viikko2-page .container {
+    max-width: 960px;
+    margin: 0;
 }
