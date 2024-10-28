@@ -7,26 +7,12 @@ h1 {
     color: #333;
 }
 
-h2 {
-    color: #333;
-
-nav ul {
-    list-style type: none;
-    padding: 0;
-}
-
-nav ul li {
-    margin: 5px 0;
-}
-
-}
-
-.index-page .container {
+.index.container {
     max-width: 960px;
     margin: 0 auto;
 }
 
-.viikko2-page .container {
+.viikko2.container {
     max-width: 960px;
-    margin: 0 auto;
+    
 }
