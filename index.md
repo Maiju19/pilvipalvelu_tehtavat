@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>GitHub Pages Sivuni</title>
-        <link rel="stylesheet" type="text/css" href="styles.css">
-    </head>
-    <body>
-        <h1>Tervetuloa GitHub Pages-sivustolleni</h1>
-        <p class="container">Tässä on tehtävien palautukset:</p>
 
-        <ul>
-            <li><a href="index.md">Viikko 1</a></li>
-            <li><a href="viikko2.md">Viikko 2</a></li>
-        </ul>
-        
-    </body>
-</html>
