@@ -1,4 +1,4 @@
-GitHub Pages Sivuni jossa Jekyll teema
+
 ## Tervetuloa GitHub Pages-sivutolleni!
 Täältä löytyvät kaikki tehtäväpalautukset:
 - [Viikko 1](vko1/index.html)
