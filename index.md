@@ -6,5 +6,5 @@ Täältä löytyvät kaikki tehtäväpalautukset:
 - [Viikko 3](vko3/dist/index.html)
 - [Viikko 4](vko4/index.html) 
 - [Viikko 5](vko5.md)
-- [Viikko 6](vko6/dist)
+- [Viikko 6](vko6/dist/index.html)
 - Harjoitustyö
