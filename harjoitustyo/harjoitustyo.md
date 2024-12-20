@@ -1,4 +1,4 @@
-[Viikko 1](./index.md)
+[Viikko 1](../index.md)
 
 ## Harjoitustyö
 
