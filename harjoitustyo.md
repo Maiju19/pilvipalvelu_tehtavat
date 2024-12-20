@@ -1,11 +1,11 @@
 [Viikko 1](index.md)
 
-## Harjoitustyo
+## Harjoitustyö
 
 Tällä sivustolla voit etsiä tietoa eri maista. Hakukenttään syöttämällä maan nimen (englanniksi) saat tiedot maan pääkaupungista, 
 kielistä, asukasluvusta ja maan lipun. Suosikit sivulla voit käydä lisäämässä tietokantaan oman suosikkimaasi. Lista näyttää jo tietokannasta löytyvät maat. Sovelluksessa on käytetty Firebase-autentikaatiota, Firestore tietokantaa ja tietojen hakemiseen REST Countries API:a. Firebaseen on luotu yksi käyttäjä: rommi@rusina.fi/salasana1
 
-Linkki harjoitustyöhön: https://maiju19.github.io/pilvi_harjoitustyo
+[Linkki harjoitustyöhön](https://maiju19.github.io/pilvi_harjoitustyo)
 
 ## Responsiivisuus
 
@@ -19,6 +19,6 @@ Sivusto testattiin sekä Firefoxilla, Chromella ja Edgellä. Kaikissa selaimissa
 
 Latautumisaikojen testaukseen käytettiin PageSpeed Insights työkalua. Testi osoitti, että sivun latausajat ovat hyvät sekä tietokoneella että mobiilissa. 
 
-![Kuva1](C:\2304406\Projects\Mobiili.png)
+<img src="C:\2304406\Projects\Mobiili.png" />
 
-![Kuva2](C:\2304406\Projects\Laptop.png)
+<img src="(C:\2304406\Projects\Laptop.png" />
