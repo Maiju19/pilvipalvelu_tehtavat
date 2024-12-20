@@ -7,7 +7,7 @@ kielistä, asukasluvusta ja maan lipun. Suosikit sivulla voit käydä lisäämä
 
 Linkki harjoitustyöhön: https://maiju19.github.io/pilvi_harjoitustyo
 
-# Responsiivisuus
+## Responsiivisuus
 
 Sivusto toimii erikokoisilla näytöillä. Toimivuutta on testattu Firefoxin ja Chromen kehitystyökaluilla sekä fyysisillä laitteilla. Mobiilissa responsiivisuus voisi olla kyllä parempikin. Tietokoneella ja padilla skaalautuvuus on hyvä.
 
