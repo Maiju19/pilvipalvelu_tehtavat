@@ -19,6 +19,6 @@ Sivusto testattiin sekä Firefoxilla, Chromella ja Edgellä. Kaikissa selaimissa
 
 Latautumisaikojen testaukseen käytettiin PageSpeed Insights työkalua. Testi osoitti, että sivun latausajat ovat hyvät sekä tietokoneella että mobiilissa. 
 
-<img src="C:\2304406\Projects\websovellus\harjoitustyo\Mobiili.png" />
+<img src="Mobiili.png" />
 
-<img src="C:\2304406\Projects\websovellus\harjoitustyo\Laptop.png" />
+<img src="Laptop.png" />
